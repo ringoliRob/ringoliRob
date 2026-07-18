@@ -59,14 +59,24 @@ Most days you'll find me somewhere between React components, TypeScript errors, 
   />
 </p>
 
-## A few GitHub numbers
+## My year in code
 
 <div align="center">
 
-<img
-  width="100%"
-  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-  alt="Roberto's GitHub activity overview"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-3d-contrib/night.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile-3d-contrib/day.svg"
+  />
+  <img
+    src="./profile-3d-contrib/day.svg"
+    alt="Roberto's 3D GitHub contribution calendar"
+    width="100%"
+  />
+</picture>
 
 </div>
