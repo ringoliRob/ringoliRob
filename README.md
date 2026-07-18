@@ -59,20 +59,14 @@ Most days you'll find me somewhere between React components, TypeScript errors, 
   />
 </p>
 
-## GitHub, lately
+## A few GitHub numbers
 
 <div align="center">
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=ringoliRob&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5865F2&text_color=c9d1d9&icon_color=5865F2&ring_color=5865F2"
-  alt="Roberto's GitHub statistics"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringoliRob&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=5865F2&text_color=c9d1d9"
-  alt="Roberto's most used languages"
+  width="100%"
+  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+  alt="Roberto's GitHub activity overview"
 />
 
 </div>
