@@ -2,46 +2,77 @@
 
 # Hey, I'm Roberto 👋
 
-**Web developer from Italy, Computer Science student, and habitual builder of things for the internet.**
+**Web developer from Italy and Computer Science student, almost at the finish line.**
 
-I make web apps, small games, and experiments that usually start with
-“what if I tried this?” and end up somewhere on [cazzeggia.online](https://cazzeggia.online).
+I like turning half-serious ideas into real things you can open, click, and share.
 
 <br>
 
-<a href="https://cazzeggia.online">
+<a href="https://github.com/ringoliRob">
   <img
-    src="https://img.shields.io/badge/Explore-cazzeggia.online-181717?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Explore cazzeggia.online"
+    src="https://img.shields.io/badge/GitHub-ringoliRob-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Roberto on GitHub"
   />
 </a>
 
 </div>
 
-## What I'm up to
+## A bit about me
 
-- 🎓 Finishing my Computer Science degree
-- 🎮 Building games and web experiments for **Cazzeggia**
-- ⚛️ Working mostly with React, TypeScript, and Node.js
-- 🤖 Exploring better ways to build software with AI
+I'm the kind of person who learns best by building.
 
-## Featured project
+Most days you'll find me somewhere between React components, TypeScript errors, and experiments that were supposed to take “just one evening”. I'm currently finishing my Computer Science degree and getting deeper into full-stack development, backend systems, and AI-assisted workflows.
 
-### [Cazzeggia](https://cazzeggia.online)
+## CAZZEGGIO
 
-A growing playground for browser games, interactive experiments, and ideas that are more fun to build than to explain.
+<div align="center">
 
-**[Open Cazzeggia →](https://cazzeggia.online)**
+<a href="https://cazzeggia.online">
+  <img
+    src="./assets/cazzeggio-logo.png"
+    alt="CAZZEGGIO logo"
+    width="190"
+  />
+</a>
+
+### Casual gaming, taken unnecessarily seriously.
+
+**CAZZEGGIO** is my playground for building browser games and interactive challenges. It brings original mini-games, daily challenges, global leaderboards, and a growing community together in one place.
+
+<br>
+
+<a href="https://cazzeggia.online">
+  <img
+    src="https://img.shields.io/badge/PLAY_NOW-cazzeggia.online-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Play on CAZZEGGIO"
+  />
+</a>
+
+</div>
 
 ## Tools I enjoy using
 
-<p>
+<p align="center">
   <img
     src="https://skillicons.dev/icons?i=ts,react,nodejs,js,html,css,python,java,cpp,c,git,github&perline=12"
     alt="TypeScript, React, Node.js, JavaScript, HTML, CSS, Python, Java, C++, C, Git, and GitHub"
   />
 </p>
 
----
+## GitHub, lately
 
-Most of my experiments eventually end up on **[cazzeggia.online](https://cazzeggia.online)**.
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=ringoliRob&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5865F2&text_color=c9d1d9&icon_color=5865F2&ring_color=5865F2"
+  alt="Roberto's GitHub statistics"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringoliRob&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=5865F2&text_color=c9d1d9"
+  alt="Roberto's most used languages"
+/>
+
+</div>
