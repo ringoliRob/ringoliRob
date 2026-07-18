@@ -2,158 +2,46 @@
 
 # Hey, I'm Roberto 👋
 
-<a href="https://cazzeggia.online">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Web+Developer+from+Italy+%F0%9F%87%AE%F0%9F%87%B9;Almost+Computer+Science+Graduate+%F0%9F%8E%93;Building+random+things+on+the+internet;AI-assisted%2C+human-debugged+%F0%9F%A4%96"
-    alt="Animated introduction"
-  />
-</a>
+**Web developer from Italy, Computer Science student, and habitual builder of things for the internet.**
+
+I make web apps, small games, and experiments that usually start with
+“what if I tried this?” and end up somewhere on [cazzeggia.online](https://cazzeggia.online).
 
 <br>
 
 <a href="https://cazzeggia.online">
   <img
-    src="https://img.shields.io/badge/PLAY-cazzeggia.online-181717?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Cazzeggia"
+    src="https://img.shields.io/badge/Explore-cazzeggia.online-181717?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Explore cazzeggia.online"
   />
 </a>
 
-<img
-  src="https://komarev.com/ghpvc/?username=ringoliRob&style=for-the-badge&color=grey"
-  alt="Profile views"
-/>
-
 </div>
 
----
+## What I'm up to
 
-## 👨‍💻 About Me
+- 🎓 Finishing my Computer Science degree
+- 🎮 Building games and web experiments for **Cazzeggia**
+- ⚛️ Working mostly with React, TypeScript, and Node.js
+- 🤖 Exploring better ways to build software with AI
 
-<div align="center">
+## Featured project
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=750&center=true&vCenter=true&repeat=true&width=800&height=55&lines=%F0%9F%92%BB+Web+Developer;%F0%9F%8E%93+Computer+Science+student+%E2%80%94+almost+done;%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;%E2%98%95+Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+C;%F0%9F%A4%96+AI+is+my+daily+pair+programmer;%F0%9F%8E%AE+Currently+building+cazzeggia.online"
-  alt="Animated about me"
-/>
+### [Cazzeggia](https://cazzeggia.online)
 
-</div>
+A growing playground for browser games, interactive experiments, and ideas that are more fun to build than to explain.
 
----
+**[Open Cazzeggia →](https://cazzeggia.online)**
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=java,cpp,c,python,nodejs,ts,react,js,html,css,git,github,vscode&perline=7"
-  alt="Tech stack"
-/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=ringoliRob&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github"
-  alt="Roberto's GitHub statistics"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringoliRob&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-  alt="Roberto's most used languages"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  width="70%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ringoliRob&theme=github-dark-blue&hide_border=true"
-  alt="Roberto's GitHub streak"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ringoliRob&theme=github-compact&hide_border=true&area=true"
-  alt="Roberto's contribution graph"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=ringoliRob&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"
-  alt="Roberto's GitHub trophies"
-/>
-
-</div>
-
----
-
-## 🎮 Featured Project
-
-<div align="center">
-
-<h3>Cazzeggia</h3>
+## Tools I enjoy using
 
 <p>
-  A playground where I build games, experiments and random ideas for the web.
+  <img
+    src="https://skillicons.dev/icons?i=ts,react,nodejs,js,html,css,python,java,cpp,c,git,github&perline=12"
+    alt="TypeScript, React, Node.js, JavaScript, HTML, CSS, Python, Java, C++, C, Git, and GitHub"
+  />
 </p>
 
-<a href="https://cazzeggia.online">
-  <img
-    src="https://img.shields.io/badge/PLAY_NOW-cazzeggia.online-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Play Cazzeggia"
-  />
-</a>
-
-</div>
-
 ---
 
-## 🎯 Current Goals
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2200&pause=800&center=true&vCenter=true&repeat=true&width=800&height=55&lines=%F0%9F%8E%93+Finish+my+Computer+Science+degree;%F0%9F%9A%80+Publish+more+side+projects;%E2%9A%9B%EF%B8%8F+Improve+with+React+and+TypeScript;%E2%98%81%EF%B8%8F+Learn+more+about+backend+and+DevOps;%F0%9F%A4%96+Use+AI+to+work+smarter%2C+not+less"
-  alt="Current goals"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-### `Code → Break → Debug → Learn → Repeat`
-
-**AI writes the boilerplate. I write the bugs.**
-
-<br>
-
-Thanks for stopping by 👋
-
-</div>
+Most of my experiments eventually end up on **[cazzeggia.online](https://cazzeggia.online)**.
