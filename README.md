@@ -23,34 +23,15 @@ I'm the kind of person who learns best by building.
 
 Most days you'll find me somewhere between React components, TypeScript errors, and experiments that were supposed to take “just one evening”. I'm currently finishing my Computer Science degree and getting deeper into full-stack development, backend systems, and AI-assisted workflows.
 
-## robertoringoli.it
+## [robertoringoli.it ↗](https://robertoringoli.it)
 
-<div align="center">
+**My portfolio, built as a 3D digital archipelago.**
 
-<a href="https://robertoringoli.it">
-  <img
-    src="./assets/robertoringoli-portfolio.jpg"
-    alt="robertoringoli.it — Roberto's 3D digital archipelago"
-    width="100%"
-  />
-</a>
+Instead of a traditional project grid, every part of my work lives on its own island. The experience starts from my hometown, Lanciano, and turns my projects and interests into places you can explore.
 
-### My portfolio, built as a 3D digital archipelago.
+Built with `React`, `TypeScript`, and `Three.js`.
 
-Instead of a traditional project grid, every part of my work lives on its own island. Drag, zoom, and explore the world starting from my hometown, Lanciano.
-
-`React` · `TypeScript` · `Three.js`
-
-<br>
-
-<a href="https://robertoringoli.it">
-  <img
-    src="https://img.shields.io/badge/EXPLORE-robertoringoli.it-C26F47?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Explore robertoringoli.it"
-  />
-</a>
-
-</div>
+**[Visit the live portfolio →](https://robertoringoli.it)**
 
 ## CAZZEGGIO
 
