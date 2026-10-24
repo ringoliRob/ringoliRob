@@ -2,7 +2,7 @@
 
 # Hey, I'm Roberto 👋
 
-### Computer Science student from Italy, almost at the finish line.
+### Computer Science graduate from Italy, now on to the AICoNDA master's.
 
 I like turning half-serious ideas into real things you can open, click, and share.
 
@@ -19,13 +19,13 @@ I like turning half-serious ideas into real things you can open, click, and shar
 
 <div align="center">
 
-## 🏝️ robertoringoli.it
+## 🛋️ robertoringoli.it
 
-### My portfolio, built as a 3D digital archipelago.
+### My portfolio is a room you explore in first person.
 
-Instead of a traditional project grid, every part of my work lives on its own island.<br>
-The journey starts from my hometown, **Lanciano**, and turns my projects<br>
-and interests into places you can actually explore.
+Every object in it tells you something about me: pick things up, use them, throw them.<br>
+Power on the PC, take it apart piece by piece, then sit at the monitor<br>
+and boot into **RingoliOS**, a desktop with my projects, contacts, and thesis.
 
 `React` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Three.js`
 
@@ -33,7 +33,7 @@ and interests into places you can actually explore.
 
 <a href="https://robertoringoli.it">
   <img
-    src="https://img.shields.io/badge/EXPLORE_THE_ARCHIPELAGO-robertoringoli.it-0EA5E9?style=for-the-badge&logo=googleearth&logoColor=white"
+    src="https://img.shields.io/badge/ENTER_THE_ROOM-robertoringoli.it-8B7BFF?style=for-the-badge&logo=threedotjs&logoColor=white"
     alt="Visit robertoringoli.it"
   />
 </a>
